@@ -53,11 +53,13 @@ body {
 
 .hero-text {
   margin-top: 50px;
+   color: black;
 }
 
 .hero-text h1 {
   font-size: 3.5rem;
   margin-bottom: 20px;
+   color: black;
 }
 
 .hero-text .btn {
